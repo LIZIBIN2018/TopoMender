@@ -1,0 +1,89 @@
+﻿D:\software\Visual Studio 2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(39,5): warning MSB4211: 正在首次将属性“IntermediateOutputPath”设置为某个值，但已在“D:\software\Visual Studio 2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)”处使用了该属性。
+D:\software\Visual Studio 2019\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets(30,5): warning MSB4211: 正在首次将属性“DebugType”设置为某个值，但已在“D:\software\Visual Studio 2019\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (29,5)”处使用了该属性。
+D:\software\Visual Studio 2019\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(373,5): warning MSB4211: 正在首次将属性“CleanFile”设置为某个值，但已在“D:\software\Visual Studio 2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)”处使用了该属性。
+  BoundingBox.cpp
+  Constant.cpp
+  FileWriter.cpp
+D:\coding\TopoMender\TopoMender_MendIT\FileWriter.cpp(23,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\coding\TopoMender\TopoMender_MendIT\FileWriter.cpp(25,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Geometry.cpp
+  HashMap.cpp
+  main.cpp
+  MemoryManager.cpp
+  OcTree.cpp
+  OcTreeBelong.cpp
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeBelong.cpp(264,9): warning C4101: “n64ThisCell”: 未引用的局部变量
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeBelong.cpp(265,6): warning C4101: “nThisCell”: 未引用的局部变量
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeBelong.cpp(263,10): warning C4101: “pThisCell”: 未引用的局部变量
+  OcTreeConstruct.cpp
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeConstruct.cpp(15,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  OcTreeContainCell.cpp
+  OcTreeContainCheck.cpp
+  OcTreeContainEdge.cpp
+  OcTreeContainFace.cpp
+  OcTreeContainPoint.cpp
+  OcTreeContouring.cpp
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeContouring.cpp(38,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeContouring.cpp(101,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  OcTreeDualThin.cpp
+  OcTreeHelper.cpp
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeHelper.cpp(308,42): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeHelper.cpp(318,46): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeHelper.cpp(339,50): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeHelper.cpp(363,23): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeHelper.cpp(413,9): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeHelper.cpp(413,30): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeHelper.cpp(413,51): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeHelper.cpp(418,9): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeHelper.cpp(418,30): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeHelper.cpp(418,51): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeHelper.cpp(423,9): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeHelper.cpp(423,30): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeHelper.cpp(423,60): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeHelper.cpp(431,10): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeHelper.cpp(431,40): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeHelper.cpp(431,70): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  OcTreePrint.cpp
+  OcTreeRestrict.cpp
+  正在编译...
+  OcTreeSketching.cpp
+  OcTreeThin.cpp
+  OcTreeThinEx.cpp
+  OcTreeThinPure.cpp
+  OcTreeTopology.cpp
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeTopology.cpp(886,28): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeTopology.cpp(889,28): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeTopology.cpp(892,28): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeTopology.cpp(1007,27): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeTopology.cpp(1010,27): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeTopology.cpp(1013,27): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeTopology.cpp(1027,27): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeTopology.cpp(1030,27): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeTopology.cpp(1033,27): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeTopology.cpp(1059,28): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeTopology.cpp(1062,28): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeTopology.cpp(1065,28): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  OcTreeTraversal.cpp
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeTraversal.cpp(582,142): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeTraversal.cpp(583,142): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeTraversal.cpp(584,142): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeTraversal.cpp(590,141): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeTraversal.cpp(591,141): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\coding\TopoMender\TopoMender_MendIT\OcTreeTraversal.cpp(592,141): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  RenderMesh.cpp
+D:\coding\TopoMender\TopoMender_MendIT\RenderMesh.cpp(7,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\coding\TopoMender\TopoMender_MendIT\RenderMesh.cpp(21,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\coding\TopoMender\TopoMender_MendIT\RenderMesh.cpp(29,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\coding\TopoMender\TopoMender_MendIT\RenderMesh.cpp(72,21): warning C4018: “<”: 有符号/无符号不匹配
+  SingleHashMap.cpp
+  Skeleton.cpp
+D:\coding\TopoMender\TopoMender_MendIT\Skeleton.cpp(50,18): warning C4018: “<”: 有符号/无符号不匹配
+D:\coding\TopoMender\TopoMender_MendIT\Skeleton.cpp(57,18): warning C4018: “<”: 有符号/无符号不匹配
+  TimeMeter.cpp
+  Topomender.cpp
+  Vector3D.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1271 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Topomender.vcxproj -> D:\coding\TopoMender\TopoMender_MendIT\Release\Topomender.exe

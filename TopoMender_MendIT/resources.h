@@ -1,5 +1,6 @@
 #include <ctime>
 #include <fstream>
+#define _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS
 #include <hash_map>
 #include <hash_set>
 #include <iostream>
